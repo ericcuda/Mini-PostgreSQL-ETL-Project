@@ -1,5 +1,5 @@
 # ETL_Project 
-![load image](etl1.png)
+![load image](image.gif)
 
 Kelly McVey / Wenbin Zhao Billy
 
@@ -38,3 +38,4 @@ https://www.kaggle.com/camnugent/sandp500/version/4#
 
 
 ## Final Analysis
+![etl-baby](etl-baby.jpg)
