@@ -36,7 +36,7 @@ https://www.kaggle.com/camnugent/sandp500/version/4#
 
 
 ## Load
-![load image](image.gift)
+![load image](image.gif)
 
 #### Merged Data is transferred to PostgreSQL database by using SQLAlchamy (to_sql function).
 
