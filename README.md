@@ -9,10 +9,6 @@ For our ETL project we will be collecting stock market data from the S&P for the
 
 <<<<<<< HEAD
 [!ETL-image](etl.png)
-=======
-
->>>>>>> 9f4028686a27a7875c90437054fd2ac037df35e4
-
 
 ## Extract
 Both data sets are in CSV format. We need to make some selections on the source webpage in order to download the proper format.
@@ -41,11 +37,6 @@ https://www.kaggle.com/camnugent/sandp500/version/4#
 
 
 ## Load
-<<<<<<< HEAD
-[!load image](image.gif)
-
-=======
->>>>>>> 9f4028686a27a7875c90437054fd2ac037df35e4
 #### Merged Data is transferred to PostgreSQL database by using SQLAlchamy (to_sql function).
 
 
