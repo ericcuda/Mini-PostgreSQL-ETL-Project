@@ -38,4 +38,4 @@ https://www.kaggle.com/camnugent/sandp500/version/4#
 
 
 ## Final Analysis
-![etl-baby](etl-baby.jpg){width:250px;}
+<img src="etl-baby.jpg" alt="baby" width="350"/>
