@@ -1,4 +1,4 @@
-# ETL_Project 
+# MINI ETL Project 
 ![load image](image.gif)
 
 Kelly McVey / Wenbin Zhao Billy
